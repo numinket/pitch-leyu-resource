@@ -1,2 +1,14 @@
 # pitch-leyu-resource
-HTML page archive and documentation
+
+页面发布与维护记录
+
+本仓库用于整理 HTML 页面输出结果，并保留对应的仓库说明。
+
+## 发布目录
+
+- HTML 文件保存在当前仓库
+- GitHub Pages 可用于公开访问
+
+## 更新说明
+
+仓库会随发布任务继续更新，已发布页面以实际文件为准。
